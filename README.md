@@ -5,7 +5,7 @@ This repository contains the solutions to the questions i solved from the [_Comp
 Check out my [___Coding Ninjas Profile___](https://profile.codingninjas.com/732ab52d-7583-4d10-93e9-a40a49f3e17d?_ga=2.65372653.272200348.1599381881-1893065035.1585576439)
  
  <p align="center">
-  <img width="250" height="180" src="https://media.giphy.com/media/dg4FyS0sWrdv2/giphy.gif">
+  <img width="320" height="240" src="https://media.giphy.com/media/dg4FyS0sWrdv2/giphy.gif">
 </p>
 
 
