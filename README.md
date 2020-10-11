@@ -19,7 +19,7 @@ Check out my [___Coding Ninjas Profile___](https://profile.codingninjas.com/732a
  | 3 | Basics of Recursion | [Go](https://github.com/maverickInPyjamas/Coding-Ninjas-Competitive-Programming/tree/main/3.%20Basics%20of%20Recursion) | 
  | 4 | Time and space complexity Analysis | [Go](https://github.com/maverickInPyjamas/Coding-Ninjas-Competitive-Programming/tree/main/4.%20Time%20and%20Space%20Complexity%20Analysis) | 
  | 5 | Language Tools | [Go](https://github.com/maverickInPyjamas/Coding-Ninjas-Competitive-Programming/tree/main/5.%20Language%20Tools) | 
- | 6 | Language Tools + Time and Space complexity assignment | [Go](https://github.com/maverickInPyjamas/Coding-Ninjas-Competitive-Programming/tree/main/6.%20Language%20Tols%20%2B%20Time%20and%20Space%20Complexity%20Analysis) | 
+ | 6 | Language Tools + Time and Space complexity assignment | [Go](https://github.com/maverickInPyjamas/Coding-Ninjas-Competitive-Programming/tree/main/6.%20Language%20Tools%20%2B%20Time%20and%20Space%20Complexity%20Analysis) | 
  
 
 
