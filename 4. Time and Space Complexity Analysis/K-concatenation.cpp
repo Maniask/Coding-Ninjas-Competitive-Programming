@@ -6,7 +6,7 @@ using namespace std;
 
 typedef long long ll;
 
-ll kadane(int *arr, int n){
+ll kadane(ll *arr, int n){
 	ll max_ending_here = 0;
 	ll max_so_far = 0;
 	
@@ -19,7 +19,7 @@ ll kadane(int *arr, int n){
 	return max_so_far;
 }
 
-ll maxSubarraySum(int arr[], int n, int k){
+ll maxSubarraySum(ll arr[], int n, int k){
 	ll kadane_sum = kadane(arr, n);
 	if(k == 1) return kadane_sum;
 	
@@ -45,6 +45,11 @@ ll maxSubarraySum(int arr[], int n, int k){
 	}else{
 		ans = max(kadane_sum, max_prefix_sum + max_suffix_sum + total_sum*(k-2));
 	}
+	cout<<curr_prefix_sum<<endl;
+	cout<<max_prefix_sum<<endl;
+	cout<<curr_suffix_sum<<endl;
+	cout<<max_suffix_sum<<endl;
+	
 	return ans;
 }
 
