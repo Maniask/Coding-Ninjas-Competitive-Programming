@@ -25,12 +25,15 @@ int main(){
 			int position = lower_bound(intervals.begin(), intervals.end(), make_pair(curr_time, 0)) - intervals.begin();
 //			vector<int>ans_arr;
 			
+//			when curr_time matches with zero position
 			if(position == 0){
 				int ans = intervals[0].first - curr_time;
 			}else{
 				int ans = -1;
+//				comparing with just before this position
 				if(intervals[position-1].second > curr_time) ans = 0;
 				else if(position < intervals.size()){
+//					position lies in interval
 					ans = intervals[position].first - curr_time;
 				}
 				x.push_back(ans);
