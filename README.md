@@ -24,6 +24,8 @@ Starred/Important Questions from this Module can be found in this [excel sheet L
  | 6 | Language Tools + Time and Space complexity assignment | [Go](https://github.com/maverickInPyjamas/Coding-Ninjas-Competitive-Programming/tree/main/6.%20Language%20Tools%20%2B%20Time%20and%20Space%20Complexity%20Analysis) | 
  | 7 | Searching and Sorting Applications | [Go](https://github.com/maverickInPyjamas/Coding-Ninjas-Competitive-Programming/tree/main/7.%20Searching%20and%20Sorting%20Applications) | 
  | 8 | Advanced Recursion | [Go]( https://github.com/maverickInPyjamas/Coding-Ninjas-Competitive-Programming/tree/main/8.%20Advanced%20Recursion) | 
+ | 9 | Backtracking | [Go](https://github.com/maverickInPyjamas/Coding-Ninjas-Competitive-Programming/tree/main/9.%20Backtracking) | 
+ 
  
  
  
