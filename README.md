@@ -15,9 +15,9 @@ Starred/Important Questions from this Module can be found in this [excel sheet L
  
  | __S.NO__  | __TOPIC__ | __LINK__ | 
  | :--: | :-- | :--: | 
- | 0 | Notes | [<img width="35" height="31" src="https://img.icons8.com/doodle/48/000000/console--v2.png"/>](https://github.com/maverickInPyjamas/Coding-Ninjas-Competitive-Programming/tree/main/Notes) | 
+ | 0 | Notes | [<img width="35" height="31" src="https://img.icons8.com/wired/64/000000/add-rule.png"/>](https://github.com/maverickInPyjamas/Coding-Ninjas-Competitive-Programming/tree/main/Notes) | 
  | 1 | Pre - Requisites | [<img width="35" height="31" src="https://img.icons8.com/doodle/48/000000/console--v2.png"/>](https://github.com/maverickInPyjamas/Coding-Ninjas-Competitive-Programming/tree/main/1.%20Pre%20-%20requisites) | 
- | 2 | Intro to Competitive Programming | [Go](https://github.com/maverickInPyjamas/Coding-Ninjas-Competitive-Programming/tree/main/2.%20Intro%20To%20Competitive%20Programming) | 
+ | 2 | Intro to Competitive Programming | [<img width="35" height="31" src="https://img.icons8.com/doodle/48/000000/console--v2.png"/>](https://github.com/maverickInPyjamas/Coding-Ninjas-Competitive-Programming/tree/main/2.%20Intro%20To%20Competitive%20Programming) | 
  | 3 | Basics of Recursion | [<img width="35" height="31" src="https://img.icons8.com/doodle/48/000000/console--v2.png"/>](https://github.com/maverickInPyjamas/Coding-Ninjas-Competitive-Programming/tree/main/3.%20Basics%20of%20Recursion) | 
  | 4 | Time and space complexity Analysis | [<img width="35" height="31" src="https://img.icons8.com/doodle/48/000000/console--v2.png"/>](https://github.com/maverickInPyjamas/Coding-Ninjas-Competitive-Programming/tree/main/4.%20Time%20and%20Space%20Complexity%20Analysis) | 
  | 5 | Language Tools | [<img width="35" height="31" src="https://img.icons8.com/doodle/48/000000/console--v2.png"/>](https://github.com/maverickInPyjamas/Coding-Ninjas-Competitive-Programming/tree/main/5.%20Language%20Tools) | 
