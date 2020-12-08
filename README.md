@@ -25,7 +25,8 @@ Starred/Important Questions from this Module can be found in this [excel sheet L
  | 7 | Searching and Sorting Applications | [<img width="35" height="31" src="https://img.icons8.com/doodle/48/000000/console--v2.png"/>](https://github.com/maverickInPyjamas/Coding-Ninjas-Competitive-Programming/tree/main/7.%20Searching%20and%20Sorting%20Applications) | 
  | 8 | Advanced Recursion | [<img width="35" height="31" src="https://img.icons8.com/doodle/48/000000/console--v2.png"/>]( https://github.com/maverickInPyjamas/Coding-Ninjas-Competitive-Programming/tree/main/8.%20Advanced%20Recursion) | 
  | 9 | Backtracking | [<img width="35" height="31" src="https://img.icons8.com/doodle/48/000000/console--v2.png"/>](https://github.com/maverickInPyjamas/Coding-Ninjas-Competitive-Programming/tree/main/9.%20Backtracking) | 
- | 10 | Assignment - Backtracking, Binary Search and Merge Sort Problems | [<img width="35" height="31" src="https://img.icons8.com/doodle/48/000000/console--v2.png"/>]( https://github.com/maverickInPyjamas/Coding-Ninjas-Competitive-Programming/tree/main/10.%20Assignment%20-%20Backtracking%2C%20Binary%20Search%20and%20Merge%20Sort%20Problems) | 
+ | 10 | Assignment - Backtracking, Binary Search and Merge Sort Problems | [<img width="35" height="31" src="https://img.icons8.com/doodle/48/000000/console--v2.png"/>]( https://github.com/maverickInPyjamas/Coding-Ninjas-Competitive-Programming/tree/main/10.%20Assignment%20-%20Backtracking%2C%20Binary%20Search%20and%20Merge%20Sort%20Problems) |
+ | 11 | Bit Manipulation | [<img width="35" height="31" src="https://img.icons8.com/doodle/48/000000/console--v2.png"/>]( https://github.com/maverickInPyjamas/Coding-Ninjas-Competitive-Programming/tree/main/11.%20Bit%20Manipulation) |
  
  
  
